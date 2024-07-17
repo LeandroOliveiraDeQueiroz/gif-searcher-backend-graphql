@@ -1,0 +1,1 @@
+# gif-searcher-backend-graphql
